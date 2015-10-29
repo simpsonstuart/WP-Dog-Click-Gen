@@ -1,0 +1,56 @@
+﻿<xapCache source="D:\WP Clicker\WP Clicker\Bin\Release\WP_Clicker_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="4/19/2013 4:10:04 PM">
+  <file source="D:\WP Clicker\WP Clicker\obj\Release\WP Clicker.dll" archivePath="WP Clicker.dll" lastWriteTime="4/19/2013 4:10:01 PM" />
+  <file source="D:\WP Clicker\WP Clicker\abs.png" archivePath="abs.png" lastWriteTime="4/17/2013 9:21:57 PM" />
+  <file source="D:\WP Clicker\WP Clicker\abstract3.png" archivePath="abstract3.png" lastWriteTime="4/17/2013 8:59:25 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="4/15/2013 1:30:51 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\beep.wav" archivePath="Assets\Sounds\beep.wav" lastWriteTime="4/17/2013 5:49:32 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\bite.wav" archivePath="Assets\Sounds\bite.wav" lastWriteTime="4/18/2013 8:54:27 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\blast.wav" archivePath="Assets\Sounds\blast.wav" lastWriteTime="4/17/2013 5:49:27 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\blop.wav" archivePath="Assets\Sounds\blop.wav" lastWriteTime="4/18/2013 8:54:27 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\chime.wav" archivePath="Assets\Sounds\chime.wav" lastWriteTime="4/17/2013 5:55:08 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\click.wav" archivePath="Assets\Sounds\click.wav" lastWriteTime="4/17/2013 7:48:06 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\coin.wav" archivePath="Assets\Sounds\coin.wav" lastWriteTime="4/18/2013 8:54:27 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\crackle.wav" archivePath="Assets\Sounds\crackle.wav" lastWriteTime="4/17/2013 5:49:20 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\crash.wav" archivePath="Assets\Sounds\crash.wav" lastWriteTime="4/18/2013 8:54:27 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\ding.wav" archivePath="Assets\Sounds\ding.wav" lastWriteTime="4/17/2013 5:49:14 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\doorbell.wav" archivePath="Assets\Sounds\doorbell.wav" lastWriteTime="4/17/2013 5:49:06 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\drip.wav" archivePath="Assets\Sounds\drip.wav" lastWriteTime="4/17/2013 5:49:00 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\drop.wav" archivePath="Assets\Sounds\drop.wav" lastWriteTime="4/17/2013 5:48:54 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\gong.wav" archivePath="Assets\Sounds\gong.wav" lastWriteTime="4/18/2013 8:54:27 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\gun.wav" archivePath="Assets\Sounds\gun.wav" lastWriteTime="4/18/2013 8:54:27 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\pool.wav" archivePath="Assets\Sounds\pool.wav" lastWriteTime="4/18/2013 8:54:27 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\pop.wav" archivePath="Assets\Sounds\pop.wav" lastWriteTime="4/17/2013 5:48:44 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\punch.wav" archivePath="Assets\Sounds\punch.wav" lastWriteTime="4/18/2013 8:54:27 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\siren.wav" archivePath="Assets\Sounds\siren.wav" lastWriteTime="4/17/2013 6:20:45 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\snap.wav" archivePath="Assets\Sounds\snap.wav" lastWriteTime="4/17/2013 5:48:25 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\spin.wav" archivePath="Assets\Sounds\spin.wav" lastWriteTime="4/18/2013 8:54:28 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\splat.wav" archivePath="Assets\Sounds\splat.wav" lastWriteTime="4/18/2013 8:54:28 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\squeak.wav" archivePath="Assets\Sounds\squeak.wav" lastWriteTime="4/17/2013 6:21:16 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\thunder.wav" archivePath="Assets\Sounds\thunder.wav" lastWriteTime="4/18/2013 8:54:28 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Sounds\woosh.wav" archivePath="Assets\Sounds\woosh.wav" lastWriteTime="4/18/2013 8:54:28 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="4/15/2013 1:30:51 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="4/15/2013 1:30:51 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="4/15/2013 1:30:51 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="4/18/2013 9:38:58 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="4/18/2013 9:38:20 PM" />
+  <file source="D:\WP Clicker\WP Clicker\dogbone.png" archivePath="dogbone.png" lastWriteTime="4/17/2013 8:00:21 PM" />
+  <file source="D:\WP Clicker\WP Clicker\i.png" archivePath="i.png" lastWriteTime="4/18/2013 10:47:44 PM" />
+  <file source="D:\WP Clicker\WP Clicker\logo.png" archivePath="logo.png" lastWriteTime="4/18/2013 10:24:29 PM" />
+  <file source="D:\WP Clicker\WP Clicker\mahogany-large-67cm-wide-roll-various-lengths-531-p.png" archivePath="mahogany-large-67cm-wide-roll-various-lengths-531-p.png" lastWriteTime="4/17/2013 9:25:51 PM" />
+  <file source="D:\WP Clicker\WP Clicker\paw-prin9t.png" archivePath="paw-prin9t.png" lastWriteTime="4/17/2013 9:34:46 PM" />
+  <file source="D:\WP Clicker\WP Clicker\paw-print.png" archivePath="paw-print.png" lastWriteTime="4/17/2013 8:29:19 PM" />
+  <file source="D:\WP Clicker\WP Clicker\README_FIRST.txt" archivePath="README_FIRST.txt" lastWriteTime="4/15/2013 1:35:50 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="4/15/2013 1:35:50 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="4/15/2013 1:35:50 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Toolkit.Content\ApplicationBar.Delete.png" archivePath="Toolkit.Content\ApplicationBar.Delete.png" lastWriteTime="4/15/2013 1:35:50 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Toolkit.Content\ApplicationBar.Select.png" archivePath="Toolkit.Content\ApplicationBar.Select.png" lastWriteTime="4/15/2013 1:35:49 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4/19/2013 4:10:01 PM" />
+  <file source="D:\WP Clicker\WP Clicker\Bin\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="4/18/2013 9:40:59 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.dll" archivePath="Microsoft.Advertising.Mobile.dll" lastWriteTime="9/10/2012 10:43:36 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\microsoft.advertising.mobile.ui.dll" archivePath="microsoft.advertising.mobile.ui.dll" lastWriteTime="9/10/2012 10:43:36 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="3/3/2013 6:40:38 PM" />
+  <file source="D:\WP Clicker\packages\WPtoolkit.4.2012.10.30\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="4/15/2013 1:35:49 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.xml" archivePath="Microsoft.Advertising.Mobile.xml" lastWriteTime="7/20/2012 8:57:18 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\microsoft.advertising.mobile.ui.xml" archivePath="microsoft.advertising.mobile.ui.xml" lastWriteTime="7/20/2012 8:57:18 AM" />
+  <file source="D:\WP Clicker\WP Clicker\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="4/19/2013 4:10:01 PM" />
+</xapCache>

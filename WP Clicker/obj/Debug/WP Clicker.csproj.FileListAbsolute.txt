@@ -1,0 +1,50 @@
+D:\WP Clicker\WP Clicker\Bin\Debug\Assets\ApplicationIcon.png
+D:\WP Clicker\WP Clicker\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\WP Clicker\WP Clicker\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\WP Clicker\WP Clicker\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\WP Clicker\WP Clicker\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\WP Clicker\WP Clicker\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\WP Clicker\WP Clicker\Bin\Debug\WP Clicker.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\WP Clicker.pdb
+D:\WP Clicker\WP Clicker\Bin\Debug\AppManifest.xaml
+D:\WP Clicker\WP Clicker\Bin\Debug\Properties\WMAppManifest.xml
+D:\WP Clicker\WP Clicker\Bin\Debug\WP_Clicker_Debug_AnyCPU.xap
+D:\WP Clicker\WP Clicker\obj\Debug\App.g.cs
+D:\WP Clicker\WP Clicker\obj\Debug\MainPage.g.cs
+D:\WP Clicker\WP Clicker\obj\Debug\WP Clicker.g.resources
+D:\WP Clicker\WP Clicker\obj\Debug\WP_Clicker.Resources.AppResources.resources
+D:\WP Clicker\WP Clicker\obj\Debug\WP Clicker.csproj.GenerateResource.Cache
+D:\WP Clicker\WP Clicker\obj\Debug\WP Clicker.dll
+D:\WP Clicker\WP Clicker\obj\Debug\WP Clicker.pdb
+D:\WP Clicker\WP Clicker\obj\Debug\XapCacheFile.xml
+D:\WP Clicker\WP Clicker\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\Microsoft.Advertising.Mobile.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\microsoft.advertising.mobile.ui.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\Microsoft.Advertising.Mobile.xml
+D:\WP Clicker\WP Clicker\Bin\Debug\microsoft.advertising.mobile.ui.xml
+D:\WP Clicker\WP Clicker\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Debug\abstract3.png
+D:\WP Clicker\WP Clicker\Bin\Debug\abs.png
+D:\WP Clicker\WP Clicker\Bin\Debug\mahogany-large-67cm-wide-roll-various-lengths-531-p.png
+D:\WP Clicker\WP Clicker\Bin\Debug\paw-prin9t.png

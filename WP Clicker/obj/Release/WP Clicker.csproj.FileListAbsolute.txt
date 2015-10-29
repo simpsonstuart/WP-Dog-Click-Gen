@@ -1,0 +1,51 @@
+D:\WP Clicker\WP Clicker\Bin\Release\abs.png
+D:\WP Clicker\WP Clicker\Bin\Release\abstract3.png
+D:\WP Clicker\WP Clicker\Bin\Release\Assets\ApplicationIcon.png
+D:\WP Clicker\WP Clicker\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\WP Clicker\WP Clicker\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\WP Clicker\WP Clicker\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\WP Clicker\WP Clicker\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\WP Clicker\WP Clicker\Bin\Release\Assets\Tiles\IconicTileSmall.png
+D:\WP Clicker\WP Clicker\Bin\Release\mahogany-large-67cm-wide-roll-various-lengths-531-p.png
+D:\WP Clicker\WP Clicker\Bin\Release\paw-prin9t.png
+D:\WP Clicker\WP Clicker\Bin\Release\WP Clicker.dll
+D:\WP Clicker\WP Clicker\Bin\Release\WP Clicker.pdb
+D:\WP Clicker\WP Clicker\Bin\Release\AppManifest.xaml
+D:\WP Clicker\WP Clicker\Bin\Release\Properties\WMAppManifest.xml
+D:\WP Clicker\WP Clicker\Bin\Release\WP_Clicker_Release_AnyCPU.xap
+D:\WP Clicker\WP Clicker\Bin\Release\Microsoft.Advertising.Mobile.dll
+D:\WP Clicker\WP Clicker\Bin\Release\microsoft.advertising.mobile.ui.dll
+D:\WP Clicker\WP Clicker\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+D:\WP Clicker\WP Clicker\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+D:\WP Clicker\WP Clicker\Bin\Release\Microsoft.Advertising.Mobile.xml
+D:\WP Clicker\WP Clicker\Bin\Release\microsoft.advertising.mobile.ui.xml
+D:\WP Clicker\WP Clicker\Bin\Release\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\Bin\Release\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\WP Clicker\WP Clicker\obj\Release\App.g.cs
+D:\WP Clicker\WP Clicker\obj\Release\MainPage.g.cs
+D:\WP Clicker\WP Clicker\obj\Release\WP Clicker.g.resources
+D:\WP Clicker\WP Clicker\obj\Release\WP_Clicker.Resources.AppResources.resources
+D:\WP Clicker\WP Clicker\obj\Release\WP Clicker.csproj.GenerateResource.Cache
+D:\WP Clicker\WP Clicker\obj\Release\WP Clicker.dll
+D:\WP Clicker\WP Clicker\obj\Release\WP Clicker.pdb
+D:\WP Clicker\WP Clicker\obj\Release\XapCacheFile.xml
+D:\WP Clicker\WP Clicker\obj\Release\About.g.cs
